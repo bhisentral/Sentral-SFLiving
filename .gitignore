@@ -1,0 +1,5 @@
+.DS_Store
+.vercel
+node_modules
+proposal.src.html
+build_gate.js
